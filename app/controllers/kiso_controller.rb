@@ -1,0 +1,2 @@
+class KisoController < ApplicationController
+end
